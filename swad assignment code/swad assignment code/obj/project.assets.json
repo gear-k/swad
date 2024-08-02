@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kyew0\\.nuget\\packages\\": {},
+    "C:\\Users\\hello\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Documents\\SWAD\\SWAD Assignment Code\\swad assignment code\\swad assignment code\\swad assignment code.csproj",
+      "projectUniqueName": "C:\\Users\\hello\\Source\\Repos\\swad\\swad assignment code\\swad assignment code\\swad assignment code.csproj",
       "projectName": "swad assignment code",
-      "projectPath": "C:\\Documents\\SWAD\\SWAD Assignment Code\\swad assignment code\\swad assignment code\\swad assignment code.csproj",
-      "packagesPath": "C:\\Users\\kyew0\\.nuget\\packages\\",
-      "outputPath": "C:\\Documents\\SWAD\\SWAD Assignment Code\\swad assignment code\\swad assignment code\\obj\\",
+      "projectPath": "C:\\Users\\hello\\Source\\Repos\\swad\\swad assignment code\\swad assignment code\\swad assignment code.csproj",
+      "packagesPath": "C:\\Users\\hello\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hello\\Source\\Repos\\swad\\swad assignment code\\swad assignment code\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\kyew0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hello\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
